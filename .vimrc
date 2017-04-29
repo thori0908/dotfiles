@@ -1,17 +1,10 @@
 syntax on
 set number
 set autoindent
-set expandtab
-set tabstop=4
 set encoding=utf-8
 set shiftwidth=2
 set wrapscan
 set hlsearch
-
-noremap <Up> <Nop>
-noremap <Down> <Nop>
-noremap <Left> <Nop>
-noremap <Right> <Nop>
 
 
 if has('vim_starting')
